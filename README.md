@@ -12,4 +12,4 @@
 # NOTE:
 # Pengertian ENCRYPT
 
-
+Encryption adalah program penyandi pesan agar tidak dapat dibaca orang lain atau tidak dapat diketahui informasinya oleh orang lain tanpa pengetahuan khusus. Atau arti dari encryption yaitu sebuah proses untuk “mengaburkan” informasi supaya informasi tersebut tidak dapat dibaca tanpa pengetahuan khusus.
