@@ -7,3 +7,9 @@
 
 - `python EmojiEnc.py`
 
+
+
+# NOTE:
+# Pengertian ENCRYPT
+
+
